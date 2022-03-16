@@ -16,5 +16,23 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### Devemos colocar dentro da Tag html a linguagem da página. Ex: (html lang="pt-br")
 ##### meta - Utilizada para passar informações para programs externos. Ex: (meta charset="utf-8")
 ##### title -  É usada p/ exibir o nome da página na aba do Navegador.
-##### head - A cabeça do Código, as informações que são passadas p/ o Navegador. Ex: <title>, <meta>...
+##### head - A cabeça do Código, as informações que são passadas p/ o Navegador. Ex: (title), (meta)...
 ##### body - O corpo da Código, onde fica o que será exibido na página.
+##### ul - Listas não ordenadas
+##### ol - Listas ordenadas
+##### li - Deve ser usado p/ cada item da lista.
+##### div - Tag de divisão usada p/ dividir a página de conteudos diferentes.
+##### header - Tag usada para marcar o cabeçalho.
+
+
+
+## **Comandos em CSS**
+
+##### font-size - Para definir o tamanho da fonte.
+##### text-align - Para alinhar um texto.
+##### Height - determina a altura da área do conteúdo de um elemento.
+##### padding - define uma distância entre o conteúdo de um elemento e suas bordas
+##### display - especifica o tipo de caixa de renderização usada por um elemento no html
+##### width - define o tamanho horizontal ocupado por uma Tag na tela do Navegador
+##### vertical-align - especifica o alinhamento vertical de um INLINE ou CAIXA.
+##### margin - define a ária de margem nos quatro lados do elemento.
