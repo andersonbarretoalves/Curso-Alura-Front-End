@@ -23,6 +23,8 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### li - Deve ser usado p/ cada item da lista.
 ##### div - Tag de divisão usada p/ dividir a página de conteudos diferentes.
 ##### header - Tag usada para marcar o cabeçalho.
+##### a - Tag usada p/ linkar páginas uma âncora.
+##### nav - O Elemento HTML de Navegação representa uma seção de uma página que aponta para outras páginas ou para outras áreas da página.
 
 
 
@@ -36,3 +38,12 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### width - define o tamanho horizontal ocupado por uma Tag na tela do Navegador
 ##### vertical-align - especifica o alinhamento vertical de um INLINE ou CAIXA.
 ##### margin - define a ária de margem nos quatro lados do elemento.
+##### text-transform - Usado para transformar um texto, pode assumir quatro valores, None, Capitalize, Uppercase, Lowercase.
+##### nome - Nenhuma formatação
+##### Capitalize - As primeiras letras de cada palavra ficam com letras maiúsculas
+##### Uppercase - Coloca todas as letras em maiúscula
+##### Lowercase - Coloca todas as letras em minúsculas
+##### font-weight - especifica o peso ou a intensidade da fonte (ex.: negrito)
+##### bold - negrito
+##### text-decoration - Modifica a decoração do texto, é usada para definir a formatação de underline , overline , line-through ou blink.
+
