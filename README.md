@@ -25,6 +25,7 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### header - Tag usada para marcar o cabeçalho.
 ##### a - Tag usada p/ linkar páginas uma âncora.
 ##### nav - O Elemento HTML de Navegação representa uma seção de uma página que aponta para outras páginas ou para outras áreas da página.
+##### main - define o conteúdo principal dentro do body em seu documento ou aplicação.
 
 
 
@@ -46,4 +47,7 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### font-weight - especifica o peso ou a intensidade da fonte (ex.: negrito)
 ##### bold - negrito
 ##### text-decoration - Modifica a decoração do texto, é usada para definir a formatação de underline , overline , line-through ou blink.
-
+##### Position Static - Esse é o valor default de todo elemento HTML, ou seja, ele vai seguir o fluxo comum da sua página.
+##### Position Relative - Utilizando o position Relative o elemento passa a aceitar as propriedades Top, Bottom, Left e Right. Com elas você pode alterar o posicionamento do elemento.
+##### Position Absolute - O position Absolute é um grande quebra galho no CSS. Com ele você pode posicionar qualquer elemento de acordo com o elemento pai que tenha um position diferente de static.
+##### Position Fixed - O position fixed se comporta de maneira semelhante ao absolute, deixando de fazer parte do fluxo comum da página. Porém a grande diferença dele é que ele passa a se referenciar ao window do seu navegador, ou seja, a área que aparece para o usuário independente de barra de rolagem.
