@@ -48,6 +48,28 @@ Na parte 1, estamos criando a primeira página da Web.
 
 ##### footer - O elemento HTML de Rodapé
 
+##### form - cria um bloco para que tags de formulário e seus dados sejam agrupados e encaminhados para outro documento, em conjunto.
+
+##### input - O elemento HTML é usado para criar controles interativos para formulários baseados na web para receber dados do usuário.
+
+##### label - representa uma legenda para um item em uma interface de usuário. 
+
+##### textarea - representa um controle de edição para uma caixa de texto, útil quando você quer permitir ao usuário informar um texto  extenso em formato livre, como um comentário ou formulário de retorno.
+
+##### select - representa um controle que apresenta um menu de opções. As opções dentro do menu são representadas pelo elemento "option".
+
+##### option - Em um formulário Web, o elemento HTML é usado para criar um controle que representa um item dentro de um elemento.
+
+##### required - O atributo obrigatório em uma tag "input" especifica que os dados devem ser fornecidos antes de enviar o formulário.
+
+##### placeholder - usado p/ demostrar como o item deve ser digitado em um input.
+
+##### checked - usado p/ deixar um dos itens de opção marcado.
+
+##### fildset - é usado para agrupar elementos, assim como labels ( <label> ), dentro de um formulário web. usado no lugar de uma div.
+
+##### legend - representa um rótulo para o conteúdo do seu ancestral <fieldset>. 
+
 
 -------------------------------------
  
