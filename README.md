@@ -70,6 +70,20 @@ Na parte 1, estamos criando a primeira página da Web.
 
 ##### legend - representa um rótulo para o conteúdo do seu ancestral <fieldset>. 
 
+##### table - Tag das tabelas.
+
+##### tr - Linha da tabela.
+
+##### td - Celula da tabela.
+
+##### thead - cabeçalho da tabela.
+
+##### th - celula do cabeçalho da tabela.
+
+##### tbody - corpo da tabela.
+
+##### tfoot - rodapé da tabela.
+
 
 -------------------------------------
  
@@ -131,3 +145,9 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### hover - é uma pseudo-classe da linguagem de estilos que permite a criação de diversos efeitos interessantes em uma página HTML.
 
 ##### text-decoration - é usada para definir a formatação de underline , overline , line-through ou blink .
+
+##### transition - usado p/ fazer transição em um elemento. ex: (transition: 1s background;).
+
+##### cursor - Modifica o curso do mouse. ex: (cursor: pointer;).
+
+##### transform - usado p/ transformar um elemento. ex: (transform: scale();)
