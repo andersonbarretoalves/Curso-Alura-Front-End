@@ -84,6 +84,8 @@ Na parte 1, estamos criando a primeira página da Web.
 
 ##### tfoot - rodapé da tabela.
 
+##### section - representa uma sessão genérica contida em um documento de celula.
+
 
 -------------------------------------
  
@@ -151,3 +153,7 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### cursor - Modifica o curso do mouse. ex: (cursor: pointer;).
 
 ##### transform - usado p/ transformar um elemento. ex: (transform: scale();)
+
+##### float - determina que um elemento deve ser retirado do seu fluxo normal e colocado ao longo do lado direito ou esquerdo.
+
+##### clear - A propriedade clear do CSS especifica se um elemento pode ter elementos flutuantes ao seu lado ou se devem ser movidos para abaixo dele (clear).
