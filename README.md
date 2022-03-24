@@ -86,6 +86,8 @@ Na parte 1, estamos criando a primeira página da Web.
 
 ##### section - representa uma sessão genérica contida em um documento de celula.
 
+##### iframe - é utilizado para inserir conteúdos externos em uma página, como vídeos, banners promocionais de parceiros, fazer pré-visualização de arquivos e inúmeras outras possibilidades.
+
 
 -------------------------------------
  
@@ -157,3 +159,13 @@ Na parte 1, estamos criando a primeira página da Web.
 ##### float - determina que um elemento deve ser retirado do seu fluxo normal e colocado ao longo do lado direito ou esquerdo.
 
 ##### clear - A propriedade clear do CSS especifica se um elemento pode ter elementos flutuantes ao seu lado ou se devem ser movidos para abaixo dele (clear).
+
+-----------------------------------------
+
+## Fonts Externas
+
+##### fonts.google.com
+
+## Mapa
+
+##### google.com/maps
