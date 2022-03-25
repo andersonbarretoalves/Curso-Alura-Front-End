@@ -160,6 +160,12 @@ Na parte 1, estamos criando a primeira página da Web.
 
 ##### clear - A propriedade clear do CSS especifica se um elemento pode ter elementos flutuantes ao seu lado ou se devem ser movidos para abaixo dele (clear).
 
+##### opacity - Usado p/ transformar o elemento opaco, posso usar o "HOVER" P/ só modificar o elemento quando passo o mouse e "transition" p/ colocar o tempo de transformação.
+
+##### box-shodow - cria uma sobra no elemento. ex: box-shodow: 10px 10px black;
+
+##### text-shodow - cira sobras em um texto.
+
 -----------------------------------------
 
 ## Fonts Externas
