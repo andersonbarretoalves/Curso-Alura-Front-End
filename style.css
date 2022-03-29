@@ -102,6 +102,10 @@ nav a:hover {
     margin-top: 10px;
 }
 
+.formulario {
+    padding: 15px;
+}
+
 footer {
     text-align: center;
     background: url("bg.jpg");
@@ -242,7 +246,7 @@ td, th {
     line-height: 1.5;
 }
 
-.itens::before {
+.itens:before {
     content: "★";
 }
 
